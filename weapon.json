@@ -1,5 +1,5 @@
 [
-    {
+   "weaponparse":[ {
         "image": "assets/weapon/akm.png",
         "Name": "AKM",
         "type": "AR",
@@ -383,4 +383,5 @@
         "Effective Distance": "0-30m",
         "image": "assets/weapon/s11.png"
     }
+    ]
 ]
