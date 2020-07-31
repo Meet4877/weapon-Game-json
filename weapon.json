@@ -1,5 +1,7 @@
 [
-   "weaponparse":[ {
+   "weaponparse":
+   [ 
+   {
         "image": "assets/weapon/akm.png",
         "Name": "AKM",
         "type": "AR",
