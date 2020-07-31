@@ -1,6 +1,5 @@
-[
-   "weaponparse":
-   [ 
+{
+   "weaponparse":[ 
    {
         "image": "assets/weapon/akm.png",
         "Name": "AKM",
@@ -386,4 +385,4 @@
         "image": "assets/weapon/s11.png"
     }
     ]
-]
+}
