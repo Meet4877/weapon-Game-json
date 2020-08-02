@@ -338,8 +338,8 @@
     },
     {
         "Name": "S12K",
-        "type": "12 Gauge",
-        "Ammo": "7.62 mm",
+        "type": "Shotgun",
+        "Ammo": "12 Gauge",
         "Base Damage": "24",
         "Fire Rate": "0.25s",
         "Reload Duration": "3s",
